@@ -1,0 +1,16 @@
+{
+    "name": "seb/quest-composer",
+    "description": "Quest composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastien Juchet",
+            "email": "sebastien.juchet@gmail.com"
+        }
+    ],
+    "require": {}
+}
